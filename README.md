@@ -1,11 +1,14 @@
-### Hi 👋
+### Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Battlesquid&layout=compact&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&width=325&line_height=20" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Battlesquid&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
-</a>
+</a> -->
+
+### Skills
+[![skills](https://skillicons.dev/icons?i=nodejs,ts,express,vue,react,discordjs,firebase,arch,neovim,bash,docker)](https://skillicons.dev)
 
 <!--
 **Battlesquid/Battlesquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
