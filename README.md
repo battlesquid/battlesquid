@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=battlesquid&layout=compact&show_icons=true&custom_title=Yearly%20Stats&border_radius=0&line_height=20&theme=tokyonight&bg_color=1a1b26&icon_color=7aa2f7&text_color=9aa5ce&title_color=7aa2f7&border_color=565f89" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=battlesquid&card_width=350&layout=compact&custom_title=Top%20Languages&hide_border=false&border_radius=0&theme=tokyonight&bg_color=1a1b26&icon_color=7aa2f7&text_color=9aa5ce&title_color=7aa2f7&border_color=565f89" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=battlesquid&card_width=355&layout=compact&custom_title=Top%20Languages&hide_border=false&border_radius=0&theme=tokyonight&bg_color=1a1b26&icon_color=7aa2f7&text_color=9aa5ce&title_color=7aa2f7&border_color=565f89" />
 </a>
 </p>
 <table style="border: none">
