@@ -1,5 +1,5 @@
-<pre><h2>## battlesquid</h2>- graduated ms swe @asu
-- current swe @garmin
+<pre><h2>## about me</h2>- graduated ms swe @asu
+- current swe 2 @garmin
 
 <b>**projects:**</b>
 - [gh-skyline](<a href="https://github.com/battlesquid/gh-skyline">https://github.com/battlesquid/gh-skyline</a>)
